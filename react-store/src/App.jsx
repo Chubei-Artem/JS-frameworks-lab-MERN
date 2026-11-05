@@ -8,7 +8,7 @@ import ProductDetailModal from './components/ProductDetailModal';
 // Switch API URL depending on the environment (local dev vs production build)
 const API_URL = import.meta.env.DEV
   ? 'http://localhost:5000/products'
-  : (import.meta.env.VITE_API_URL || 'http://localhost:5000/products');
+  : (import.meta.env.VITE_API_URL || 'https://react-store-backend-lab5.onrender.com/products');
 
 function App() {
   const [products, setProducts] = useState([]);
