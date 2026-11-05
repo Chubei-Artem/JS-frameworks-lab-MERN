@@ -1,0 +1,173 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Механічна клавіатура Keychron K2",
+      "price": 3800,
+      "category": "Peripherals",
+      "stock": 7,
+      "status": "in_stock",
+      "createdAt": "2026-10-12",
+      "views": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1589578228447-e1a4e481c6c8?q=80&w=1632&auto=format&fit=crop",
+      "description": "Бездротова механічна клавіатура 75% формату з RGB-підсвіткою та тактильними перемикачами Gateron Brown."
+    },
+    {
+      "id": "2",
+      "title": "Миша Logitech MX Master 3S",
+      "price": 4200,
+      "category": "Peripherals",
+      "stock": 14,
+      "status": "in_stock",
+      "createdAt": "2026-10-15",
+      "views": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1686554825554-24adfcf5406a?q=80&w=1471&auto=format&fit=crop",
+      "description": "Ергономічна бездротова миша з тихими перемикачами Quiet Clicks та електромагнітним коліщатком MagSpeed."
+    },
+    {
+      "id": "3",
+      "title": "Монітор Dell UltraSharp 27 4K",
+      "price": 18500,
+      "category": "Displays",
+      "stock": 4,
+      "status": "in_stock",
+      "createdAt": "2026-10-18",
+      "views": 36,
+      "imageUrl": "https://images.unsplash.com/photo-1612814824743-c760091da7f6?w=800&auto=format&fit=crop&q=80",
+      "description": "Професійний IPS монітор з роздільною здатністю 4K UHD, підтримкою HDR400 та 99% колірним охопленням sRGB."
+    },
+    {
+      "id": "4",
+      "title": "Монітор LG UltraGear 34 Curved",
+      "price": 24000,
+      "category": "Displays",
+      "stock": 2,
+      "status": "in_stock",
+      "createdAt": "2026-10-20",
+      "views": 51,
+      "imageUrl": "https://images.unsplash.com/photo-1634571799202-619a5d4c086e?q=80&w=1470&auto=format&fit=crop",
+      "description": "Вигнутий UltraWide монітор з частотою розгортки 160Hz, часом відгуку 1 мс та матрицею Nano IPS."
+    },
+    {
+      "id": "5",
+      "title": "Навушники Sony WH-1000XM5",
+      "price": 14200,
+      "category": "Audio",
+      "stock": 8,
+      "status": "in_stock",
+      "createdAt": "2026-10-22",
+      "views": 89,
+      "imageUrl": "https://images.unsplash.com/photo-1612858249816-5a91a9fb9886?w=800&auto=format&fit=crop&q=80",
+      "description": "Повнорозмірні бездротові навушники з двома процесорами активного шумозаглушення та підтримкою кодека LDAC."
+    },
+    {
+      "id": "6",
+      "title": "AirPods Max Silver",
+      "price": 21500,
+      "category": "Audio",
+      "stock": 5,
+      "status": "in_stock",
+      "createdAt": "2026-10-25",
+      "views": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1628116709703-c1c9ad550d36?q=80&w=1471&auto=format&fit=crop",
+      "description": "Преміальні навушники закритого типу з просторовим аудіо, динамічним відстеженням рухів голови та прозорим режимом."
+    },
+    {
+      "id": "7",
+      "title": "Клавіатура SteelSeries Apex Pro TKL",
+      "price": 8900,
+      "category": "Peripherals",
+      "stock": 6,
+      "status": "in_stock",
+      "createdAt": "2026-10-26",
+      "views": 29,
+      "imageUrl": "https://images.pexels.com/photos/28842075/pexels-photo-28842075.jpeg",
+      "description": "Компактна кіберспортивна клавіатура з регульованою точкою спрацьовування магнітних свитчів OmniPoint 2.0."
+    },
+    {
+      "id": "8",
+      "title": "Студійний мікрофон Shure SM7B",
+      "price": 16400,
+      "category": "Audio",
+      "stock": 3,
+      "status": "in_stock",
+      "createdAt": "2026-10-27",
+      "views": 65,
+      "imageUrl": "https://images.pexels.com/photos/38493058/pexels-photo-38493058.jpeg",
+      "description": "Легендарний динамічний мікрофон кардіоїдної спрямованості з вбудованим захистом від електромагнітних завад."
+    },
+    {
+      "id": "9",
+      "title": "Монітор ASUS ROG Swift 27 OLED",
+      "price": 36000,
+      "category": "Displays",
+      "stock": 3,
+      "status": "in_stock",
+      "createdAt": "2026-10-28",
+      "views": 96,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1ckeVYK__ge9_lTmW78s1wb8trlcr5RxPfqHMnFi1g&s=10",
+      "description": "Геймерський монітор з панеллю WOLED, частотою 240Hz, блискавичним часом відгуку 0.03 мс та справжнім чорним кольором."
+    },
+    {
+      "id": "10",
+      "title": "Акустика Audioengine A2+ Wireless",
+      "price": 12800,
+      "category": "Audio",
+      "stock": 6,
+      "status": "in_stock",
+      "createdAt": "2026-10-29",
+      "views": 41,
+      "imageUrl": "https://images.unsplash.com/photo-1705682644779-ba6b02ae3fb2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "description": "Компактна настільна Hi-Fi стереосистема з вбудованим ЦАП, підтримкою Bluetooth aptX та роз'ємом для сабвуфера."
+    },
+    {
+      "id": "11",
+      "title": "Бездротовий геймпад Xbox Elite Series 2",
+      "price": 6700,
+      "category": "Peripherals",
+      "stock": 9,
+      "status": "in_stock",
+      "createdAt": "2026-10-30",
+      "views": 53,
+      "imageUrl": "https://images.pexels.com/photos/30353202/pexels-photo-30353202.jpeg",
+      "description": "Кастомізований контролер з регулюванням натягу стіків, пелюстками позаду та прогумованими рукоятками."
+    },
+    {
+      "id": "12",
+      "title": "Портативний монітор ASUS ZenScreen 15.6",
+      "price": 9300,
+      "category": "Displays",
+      "stock": 5,
+      "status": "in_stock",
+      "createdAt": "2026-10-31",
+      "views": 27,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRszhRgkvBHRu1s4Uwx3mH_41tACOQLp20y02dwChKQ&s=10",
+      "description": "Ультратонкий портативний IPS дисплей Full HD з підключенням через єдиний кабель USB Type-C."
+    },
+    {
+      "id": "13",
+      "title": "Веб-камера Elgato Facecam Pro 4K60",
+      "price": 12900,
+      "category": "Peripherals",
+      "stock": 4,
+      "status": "in_stock",
+      "createdAt": "2026-11-01",
+      "views": 38,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHECkJO16AmKcmcjQBu6ds52izbUgp8n6iTOMcdexDQ&s=10",
+      "description": "Флагманська стрімерська веб-камера з підтримкою запису відео 4K зі швидкістю 60 кадрів/с та оптикою студійного рівня."
+    },
+    {
+      "id": "14",
+      "title": "Аудіоінтерфейс Focusrite Scarlett 2i2 4th Gen",
+      "price": 8400,
+      "category": "Audio",
+      "stock": 7,
+      "status": "in_stock",
+      "createdAt": "2026-11-02",
+      "views": 61,
+      "imageUrl": "https://images.unsplash.com/photo-1766182065635-75b013345dc3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "description": "USB-звукова карта нового покоління з ультранизьким рівнем шуму мікрофонних передпідсилювачів та динамічним діапазоном 120 дБ."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
