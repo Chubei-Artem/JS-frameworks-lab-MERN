@@ -5,8 +5,9 @@
 ---
 
 ## 🚀 Демонстрація та розгортання
-- **Frontend Live Demo:** -
-- **Backend REST API:** -
+- **Frontend Live Demo:** [https://react-store-frontend-lab5.onrender.com](https://react-store-frontend-lab5.onrender.com)
+- **Backend REST API:** [https://react-store-backend-lab5.onrender.com](https://react-store-backend-lab5.onrender.com)
+                        [https://react-store-backend-lab5.onrender.com/products](https://react-store-backend-lab5.onrender.com/products)
 - **GitHub Repository:** Монорепозиторій із роздільними сервісами клієнта та сервера.
 
 ---

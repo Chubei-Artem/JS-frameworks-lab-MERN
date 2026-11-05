@@ -170,7 +170,7 @@ function App() {
       <div className="app-container">
         {/* Header navigation and global controls */}
         <header className="header">
-          <h1>React Store — Лабораторна №4</h1>
+          <h1>Fullstack Store Lab 5 MERN(MongoDB + Express + React + Node.js) </h1>
 
           <div className="header-actions">
             <button
