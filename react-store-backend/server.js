@@ -13,6 +13,17 @@ const allowedOrigins = process.env.CLIENT_ORIGINS
     ? process.env.CLIENT_ORIGINS.split(",")
     : [];
 
+// Головний маршрут для перевірки працездатності API
+app.get("/", (req, res) => {
+    res.json({
+        status: "online",
+        message: "Store Backend REST API is running successfully",
+        endpoints: {
+            products: "/products"
+        }
+    });
+});
+
 app.use(
     cors({
         origin: (origin, callback) => {
