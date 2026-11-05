@@ -77,7 +77,7 @@ function App() {
       const res = await axios.get(API_URL);
       setProducts(res.data);
     } catch (err) {
-      setApiError("Не вдалося з'єднатися з REST API. Переконайтеся, що запущено json-server на порту 5000.");
+      setApiError("Не вдалося з'єднатися з REST API. Переконайтеся, що запущено Node.js server на порту 5000.");
       console.error('Error fetching products:', err);
     } finally {
       setLoading(false);
